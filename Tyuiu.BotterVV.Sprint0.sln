@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{C0F509C1
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.BotterVV.Sprint0.Task0.V0", "Tyuiu.BotterVV.Sprint0.Task0.V0\Tyuiu.BotterVV.Sprint0.Task0.V0.vcxproj", "{631093C4-457D-4569-9ABD-0E6BD8106AB2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{C3BE5E99-0266-475B-96F9-CF4FD8881870}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.BotterVV.Sprint0.Task1.V0", "Tyuiu.BotterVV.Sprint0.Task1.V0\Tyuiu.BotterVV.Sprint0.Task1.V0.vcxproj", "{C1ED38D9-BA7B-490C-967D-DB50D25A4846}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{631093C4-457D-4569-9ABD-0E6BD8106AB2}.Release|x64.Build.0 = Release|x64
 		{631093C4-457D-4569-9ABD-0E6BD8106AB2}.Release|x86.ActiveCfg = Release|Win32
 		{631093C4-457D-4569-9ABD-0E6BD8106AB2}.Release|x86.Build.0 = Release|Win32
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Debug|x64.ActiveCfg = Debug|x64
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Debug|x64.Build.0 = Debug|x64
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Debug|x86.Build.0 = Debug|Win32
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Release|x64.ActiveCfg = Release|x64
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Release|x64.Build.0 = Release|x64
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Release|x86.ActiveCfg = Release|Win32
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{631093C4-457D-4569-9ABD-0E6BD8106AB2} = {C0F509C1-04D7-46B9-96F6-36040E8E93C7}
+		{C1ED38D9-BA7B-490C-967D-DB50D25A4846} = {C3BE5E99-0266-475B-96F9-CF4FD8881870}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {76EBD549-52AB-49ED-86D2-621598116B5D}
