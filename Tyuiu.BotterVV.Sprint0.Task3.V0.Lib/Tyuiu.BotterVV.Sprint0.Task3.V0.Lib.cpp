@@ -6,7 +6,7 @@
 #include "../../Tyuiu.Cours.cpp/Tyuiu.Cours.cpp.cpp"
 
 // TODO: This is an example of a library function
-class Service :public ISprint0Task3V0
+class Service1 :public ISprint0Task3V0
 {
 
 

@@ -1,17 +1,17 @@
-// Tyuiu.BotterVV.Sprint0.Task3.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
+// Tyuiu.BotterVV.Sprint0.Task4.V0.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
-#include "../Tyuiu.BotterVV.Sprint0.Task3.V0.Lib/Tyuiu.BotterVV.Sprint0.Task3.V0.Lib.cpp"
+#include "../Tyuiu.BotterVV.Sprint0.Task4.V0.Lib/Tyuiu.BotterVV.Sprint0.Task4.V0.Lib.cpp"
 
+using namespace std;
 int main()
 {
-    ISprint0Task3* date = new Service1();
+    ISprint0Task4* servicc = new Service2();
     std::cout << "BotterVV\n";
-    std::cout << "K = a+b+c\n";
-    std::cout << "Result = " << date->Add(5, 8, 3);
-    std::cout << std:: endl;
-
+    std::cout << "K = a-b/c*d\n";
+    std::cout << "Result = " << servicc->Calculate(25, 8, 4, 9);
+    std::cout << std::endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
